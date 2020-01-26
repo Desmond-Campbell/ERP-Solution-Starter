@@ -1,0 +1,16 @@
+/node_modules
+/public/assets/js/node_modules
+/public/assets/js/v8-compile-cache-0
+/public/assets/js/package.json
+/public/assets/js/webpack.config.js
+/public/hot
+/public/storage
+/storage/*.key
+/storage
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env

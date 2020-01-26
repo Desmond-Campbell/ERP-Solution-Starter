@@ -1,0 +1,15 @@
+webpac setup
+
+npm init
+npm install webpack --save-dev
+npm install vue vue-query-builder axios bootstrap-vue vue-upload-component vue-select vue-color vue2-datepicker
+npm run build
+  One CLI for webpack must be installed. These are recommended choices, delivered as separate packages:
+     - webpack-cli (https://github.com/webpack/webpack-cli)
+       The original webpack full-featured CLI.
+     - webpack-command (https://github.com/webpack-contrib/webpack-command)
+       A lightweight, opinionated webpack CLI.
+    We will use "npm" to install the CLI via "npm install -D".
+    Which one do you like to install (webpack-cli/webpack-command):
+    webpack-cli
+
